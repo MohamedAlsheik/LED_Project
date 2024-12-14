@@ -88,7 +88,6 @@ Watch the demonstration video for this project:
 ```
 LED_Project
 ├── Arduino_LED_Interrupts.ino  # Main Arduino source code
-├── assets/                     # Media files (circuit diagram, demo video)
 ├── README.md                   # Project documentation (this file)
 └── LICENSE                     # License information
 ```
