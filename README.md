@@ -54,7 +54,9 @@ This project is ideal for learning how to use external interrupts on an Arduino 
    - Middle pin to Analog Pin A0.
    - Other two pins to 5V and GND.
 
-4. Assemble the components on a breadboard as per the provided circuit diagram.
+4. Assemble the components on a breadboard as per the provided circuit diagram:
+
+![Circuit Diagram](assets/circuit_diagram.png)
 
 ## Installation
 1. Clone this repository:
@@ -74,11 +76,16 @@ This project is ideal for learning how to use external interrupts on an Arduino 
    - `enable button 1` or `disable button 1` to enable/disable Button 1.
    - `ledpower <value>` to set the Blue LED brightness (value range: 0-10).
 
+## Demonstration
+Watch the demonstration video for this project:
+
+[Demo Video on Google Drive](https://drive.google.com/file/d/1_Q56H07AvdmEtlXS1-Cle4uujxg9MW9M/view?usp=sharing)
+
 ## Project Structure
 ```
 LED_Project
 ├── Arduino_LED_Interrupts.ino  # Main Arduino source code
-├── diagrams/                   # Circuit diagrams and setup images
+├── assets/                     # Media files (circuit diagram, demo video)
 ├── README.md                   # Project documentation (this file)
 └── LICENSE                     # License information
 ```
