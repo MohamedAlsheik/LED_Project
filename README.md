@@ -8,7 +8,8 @@ Welcome to the LED Project! This project demonstrates how to control multiple LE
 - [Overview](#overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Hardware Setup](#hardware-setup)
+- [Hardware Setup](#hardware-setup)![circuit_diagram](https://github.com/user-attachments/assets/fa14fd2f-5a90-4af1-acca-22d1fb904012)
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -57,6 +58,8 @@ This project is ideal for learning how to use external interrupts on an Arduino 
 4. Assemble the components on a breadboard as per the provided circuit diagram:
 
 ![Circuit Diagram](assets/circuit_diagram.png)
+
+![Uploading circuit_diagram.png…]()
 
 ## Installation
 1. Clone this repository:
